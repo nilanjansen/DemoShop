@@ -1,0 +1,8 @@
+C:\Users\senni\source\repos\DemoShop\DemoShop.AzureQueueLibrary\bin\Release\netcoreapp2.2\DemoShop.AzureQueueLibrary.deps.json
+C:\Users\senni\source\repos\DemoShop\DemoShop.AzureQueueLibrary\bin\Release\netcoreapp2.2\DemoShop.AzureQueueLibrary.dll
+C:\Users\senni\source\repos\DemoShop\DemoShop.AzureQueueLibrary\bin\Release\netcoreapp2.2\DemoShop.AzureQueueLibrary.pdb
+C:\Users\senni\source\repos\DemoShop\DemoShop.AzureQueueLibrary\obj\Release\netcoreapp2.2\DemoShop.AzureQueueLibrary.csprojAssemblyReference.cache
+C:\Users\senni\source\repos\DemoShop\DemoShop.AzureQueueLibrary\obj\Release\netcoreapp2.2\DemoShop.AzureQueueLibrary.AssemblyInfoInputs.cache
+C:\Users\senni\source\repos\DemoShop\DemoShop.AzureQueueLibrary\obj\Release\netcoreapp2.2\DemoShop.AzureQueueLibrary.AssemblyInfo.cs
+C:\Users\senni\source\repos\DemoShop\DemoShop.AzureQueueLibrary\obj\Release\netcoreapp2.2\DemoShop.AzureQueueLibrary.dll
+C:\Users\senni\source\repos\DemoShop\DemoShop.AzureQueueLibrary\obj\Release\netcoreapp2.2\DemoShop.AzureQueueLibrary.pdb
